@@ -1,0 +1,16 @@
+.accordion {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.accordionbody {
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.accordiondescription {
+    display: none;
+}
